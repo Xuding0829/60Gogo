@@ -1,0 +1,25 @@
+{
+  "projectName": "60Gogo",
+  "projectOwner": "Xuding0829",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 20,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Xuding0829",
+      "name": "nullptr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114800603?v=4",
+      "profile": "https://github.com/Xuding0829",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
